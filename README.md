@@ -26,3 +26,8 @@ ___
     1. Continue for 23 miles
 5. Arrive
 
+## Things to bring to my favorite place
+- A computer
+- Snacks
+- Friends!
+
