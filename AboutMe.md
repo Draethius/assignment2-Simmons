@@ -17,3 +17,11 @@ Some of my favorite foods are listed below.
 | Cheeseburgers | McDonald's | $4 |
 | Root Beer | Walmart | $3 |
 
+___
+
+## My favorite quotes
+
+> Computer Science is no more about computers than astronomy is about telescopes. *Edsger Dijkstra*
+
+> People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini-stones. *Donald Knuth* 
+
